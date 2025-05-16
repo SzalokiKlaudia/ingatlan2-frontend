@@ -1,0 +1,25 @@
+.cont{
+  background-color: #f0f8ff;
+}
+
+.section,.urlap{
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  margin-top: 2rem;
+  border: 1px solid #a8a7a7;
+  margin-bottom: 2rem;
+
+}
+
+.sorok{
+  border-bottom: 1px solid #a8a7a7;
+  padding: 1.5rem;
+}
+
+.fejlec{
+  border-bottom: 1px solid #a8a7a7;
+  padding: 1.5rem;
+
+
+
+}
