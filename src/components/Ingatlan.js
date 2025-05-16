@@ -15,7 +15,7 @@ export default function Ingatlan(props) {
         <div className='col-md-2'>{props.adat.kategoria.nev}</div>
         <div className='col-md-4'>{props.adat.leiras}</div>
         <div className='col-md-2'>{props.adat.hirdetesDatuma}</div>
-        <div className='col-md-2'>{teher()}</div>
+        <div className='col-md-2 text-info'>{teher()}</div>
         <div className='col-md-2 f-1'>{props.adat.kepUrl}</div>
 
 
